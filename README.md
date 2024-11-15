@@ -1,0 +1,2 @@
+# Exercise-List-Implementation-of-Abstract-Classes-Interfaces-and-Polymorphism
+This exercise list offers practical examples of abstract classes, interfaces, and polymorphism. Participants will build a public transportation system, design payment methods, simulate a zoo with animal behaviors, and develop a hospital staff management system. These exercises enhance understanding of key programming paradigms.
